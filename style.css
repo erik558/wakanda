@@ -1109,11 +1109,6 @@ input {
 
 
 @media only screen and (max-width:452px) {
-    .img1 {
-        align-items: flex-start;
-    }
-
-
 
     .email {
         display: flex;
